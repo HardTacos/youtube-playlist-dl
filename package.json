@@ -1,0 +1,30 @@
+{
+    "name": "Youtube-Playlist-Downloader",
+    "version": "1.0.0",
+    "description": "An application that will download a playlist from Youtube, and if specified, convert it to .mp3.",
+    "main": "app.js",
+    "author": {
+        "name": "Patrick McHugh",
+        "email": "thehardtacos@gmail.com"
+    },
+    "homepage": "https://github.com/HardTacos/...",
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/HardTacos/..."
+    },
+    "keywords": [
+        "youtube",
+        "downloader",
+        "playlist",
+        "music",
+        "video",
+        "save"
+    ],
+    "dependencies": {
+        "async" : "latest",
+        "fs" : "latest",
+        "path" : "latest",
+        "youtube-dl" : "latest",
+        "youtube-feeds" : "latest"
+    }
+}
