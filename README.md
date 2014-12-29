@@ -14,7 +14,7 @@ the playlist to .mp3
 
 This is the entire example app that I have written for you.
 
-**NOTE: You need to make sure that you have [ffmpeg installed.](https://www.ffmpeg.org/download.html)
+**NOTE: You need to make sure that you have [ffmpeg installed.](https://www.ffmpeg.org/download.html)**
 
 ````
 var yt_playlist = require('../lib/youtube-playlist-dl.js');
