@@ -1,6 +1,8 @@
 ## YouTube Playlist Downloader
 ### youtube-playlist-dl driver for node
 
+[![NPM](https://nodei.co/npm/youtube-playlist-dl.png?downloads=true&stars=true)](https://nodei.co/npm/youtube-playlist-dl/)
+
 Download entire playlists from youtube, then convert them to .mp3 format in 
 node.js using youtube_playlist_dl.
 
