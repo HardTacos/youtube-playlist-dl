@@ -1,4 +1,5 @@
-## MyKarma - Auto webscrape application
+## YouTube Playlist Downloader
+### youtube-playlist-dl driver for node
 
 Download entire playlists from youtube, then convert them to .mp3 format in 
 node.js using youtube_playlist_dl.
