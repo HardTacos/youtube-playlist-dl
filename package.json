@@ -7,10 +7,10 @@
         "name": "Patrick McHugh",
         "email": "thehardtacos@gmail.com"
     },
-    "homepage": "https://github.com/HardTacos/...",
+    "homepage": "https://github.com/HardTacos/youtube-playlist-dl",
     "repository": {
     "type": "git",
-    "url": "git://github.com/HardTacos/..."
+    "url": "git://github.com/HardTacos/youtube-playlist-dl"
     },
     "keywords": [
         "youtube",
