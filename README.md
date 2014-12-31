@@ -16,7 +16,7 @@ This is the entire example app that I have written for you.
 
 **NOTE: You need to make sure that you have [ffmpeg installed.](https://www.ffmpeg.org/download.html)**
 
-````
+```js
 var yt_playlist = require('../lib/youtube-playlist-dl.js');
 
 // Starts the count for the playlist size. 
@@ -33,7 +33,7 @@ var options = {
 }
 
 yt_playlist.retrievePlaylist(options, 1, j);
-````
+```
 
 ##### Install
 
