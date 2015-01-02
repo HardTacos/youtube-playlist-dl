@@ -1,6 +1,6 @@
 {
-    "name": "Youtube-Playlist-Downloader",
-    "version": "1.0.0",
+    "name": "youtube-playlist-dl",
+    "version": "1.0.1",
     "description": "An application that will download a playlist from Youtube, and if specified, convert it to .mp3.",
     "main": "app.js",
     "author": {
@@ -18,8 +18,14 @@
         "playlist",
         "music",
         "video",
-        "save"
+        "save",
+        "mp3",
+        "mp4"
     ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hardtacos/riot-games-api-nodejs/issues"
+    },
     "dependencies": {
         "async" : "latest",
         "fs" : "latest",
