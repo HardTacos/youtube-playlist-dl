@@ -24,7 +24,7 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/hardtacos/riot-games-api-nodejs/issues"
+        "url": "https://github.com/hardtacos/youtube-playlist-dl/issues"
     },
     "dependencies": {
         "async" : "latest",
