@@ -8,16 +8,16 @@ License:      MIT License (see LICENSE)
 
 var yt_playlist = require('../lib/youtube-playlist-dl.js');
 
-var j = 1;
-
 console.log('--------------------------------------------------------');
 console.log('[INFO] GATHERING VIDEOS FROM SELECTED PLAYLIST');
 console.log('--------------------------------------------------------');
 
 var options = {
-    playlistUrl : "PLRBp0Fe2GpgmsW46rJyudVFlY6IYjFBIK",
+    playlistUrl : "PLRBp0Fe2GpgmsW46rJyudVFlY6IYjFBIK", //Popular Music Videos from YouTube
     mp4Directory : "../files/mp4s/",
     mp3Directory : "../files/mp3s/"
 }
+
+var j = 0;
 
 yt_playlist.retrievePlaylist(options, 1, j);

@@ -42,3 +42,14 @@ yt_playlist.retrievePlaylist(options, 1, j);
 ##### License
 
 MIT
+
+---
+##### Change Log
+
+###### 1.1.0
+---
+
+Bugfixes:
+
+  - If the video title contained any special characters, the video would fail to download and convert
+    properly. Altered the regex to include any special characters, disregarding the dash character `-`
