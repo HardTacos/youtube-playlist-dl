@@ -44,10 +44,9 @@ yt_playlist.retrievePlaylist(options, 1, j);
 MIT
 
 ---
-##### Change Log
+## Change Log
 
-###### 1.1.0
----
+### 1.1.0
 
 Bugfixes:
 
